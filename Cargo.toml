@@ -5,7 +5,7 @@ edition = "2021"
 license = "MIT or Apache-2.0"
 homepage = "https://github.com/xmh0511/auto-curry"
 description = "Automatically implement Curry for callable types such that they are curried functions"
-
+readme = "readme.md"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
